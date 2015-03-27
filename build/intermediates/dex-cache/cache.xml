@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/libammsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c1f63f70671d69ee38379728e1192db82e289246">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/libammsdk-dcee7b598015075881ef77857e7525032b7bca22.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/mta-sdk-1.6.2-b6a87aae2033e874f8b5c6eac80eaf5052c6816f.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/Xg_sdk_v2.37.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e65d04d565ad54cba3cfcc0d052d8d311942d41">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/Xg_sdk_v2.37-b280c03212862a2b72d76ef53880233d46f315ea.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/classes-2cf9b1e8fd6d0092d3b9f87a3a90b89d7b7e3c77.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/badgeview.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f4b611513eb2b1eea3c6b3b1077aacbc611cc21a">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/badgeview-22f59f312a1aa53a98aedf35fba245011d152a75.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/ksoap2-android-assembly-3.3.0-jar-with-dependencies-4954ed9c65c3ec8e8dd7f048f4fe52593fdb0da6.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9a37468955173d95b5b23d7ee29ef5713e94dd50">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android-b932071506d152a641ac2376c6ff80d5c7c3fc0e.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/svn2924_open_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9713db0c781e0159b783ee736e6d455fa86db8b3">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/svn2924_open_sdk-21fd7d41620ce2d58b755cffb063dab0ae5284d3.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/weibosdkcore.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd767db6c90e98697ee1ca76372b806828c6ff50">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/weibosdkcore-fdbef45cd5a478dea9341a0a180a706e5bb622d6.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/android_api_1.1_forsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="610ab8a4952cfec5cc008a697790e21dec7b8d3a">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/android_api_1.1_forsdk-1b3a40380123b0ee3f25a3019769f9468b62bdf8.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/galaxy_mini.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/galaxy_mini-480c61a494d5a8b74988731417d678a5c344f35e.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/Baidu-Frontia-Android-2.0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="286c586042c53f955746baa509d1e0319c0c55d2">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/Baidu-Frontia-Android-2.0.6-398a3aa53292b134ef9693223c3ac351577eab8d.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/wup-1.0.0-SNAPSHOT-e8308f33cdaf1238cfb936dc00e606f8e930aa54.jar" />
+    </item>
+    <item
+        jar="/Applications/ADT/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-52f14c21abb068b54dfab9a0c3aa5eda42cda328.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidstudioProjects/foodtoday/app/libs/mid-sdk-2.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b8c105b39a07ec1c2ca81919d64eac5482dca87">
+        <dex dex="/Users/admin/AndroidstudioProjects/foodtoday/app/build/intermediates/pre-dexed/debug/mid-sdk-2.10-e1c9bc975e44ebbf6b3356125c96085326c5315c.jar" />
+    </item>
+
+</items>
